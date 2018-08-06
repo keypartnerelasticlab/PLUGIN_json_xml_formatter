@@ -13,5 +13,3 @@ Kibana plugin that automatically formats both json and xml field values
 
 * **andrea.cesaro@keypartner.it** - *Initial work* 
 * **alessandro.mazza@keypartner.it** - *Plugin update* 
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
